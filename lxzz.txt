@@ -224,9 +224,9 @@ http://115.60.241.249:2000/rtp/225.1.4.208:1261
 http://42.5.185.242:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC家庭影院
-http://42.5.185.253:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 http://112.235.200.93:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
+http://42.5.185.253:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" tvg-logo="" group-title="数字频道",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
