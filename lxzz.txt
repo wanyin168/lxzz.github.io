@@ -211,17 +211,17 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://live.fanmingming.com/tv/浙江求索生活.png" group-title="IHOT",求索生活
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://42.5.185.253:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://42.5.185.253:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 http://115.60.241.249:2000/rtp/225.1.4.208:1261
-http://42.5.185.253:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC高清电影
 http://42.5.185.242:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC家庭影院
 http://42.5.185.253:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
@@ -341,7 +341,15 @@ http://159.75.85.63:35455/douyu/4332
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影频道",贝爷影厅✔原
 http://159.75.85.63:35455/douyu/252802
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",林正英 
-http://43.138.170.29:35455/douyu/218859
+http://mtw.so/5FCWRo
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",林正英2 
+http://43.138.170.29:35455/yy/1453996620
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",林正英3 
+http://43.138.170.29:35455/yy/1354932444
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",林正英4
+http://43.138.170.29:35455/yy/1353685311
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",林正英5
+http://43.138.170.29:35455/yy/34229877
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",刘德华电影
 http://43.138.170.29:35455/douyu/2516864
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",斗鱼频道
@@ -357,8 +365,6 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",轮播电影3
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",轮播电影4
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",鬼片恐怖惊悚
 http://43.138.170.29:35455/douyu/2935323
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",恐怖故事
