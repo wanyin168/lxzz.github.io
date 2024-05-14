@@ -422,14 +422,8 @@ http://43.138.170.29:35455/douyu/2660125
 http://43.138.170.29:35455/douyu/276200
 #EXTINFF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",悬疑犯罪
 http://43.138.170.29:35455/douyu/9171887
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",不一样的电影
-http://43.138.170.29:35455/douyu/2632223
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",科幻影视解说
-http://43.138.170.29:35455/douyu/3508304
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",凛冬之地
 http://43.138.170.29:35455/douyu/8945323
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",看美剧
-http://43.138.170.29:35455/douyu/8869614
 
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影轮播",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
@@ -596,7 +590,11 @@ http://cfss.cc/cdn/hy/16739452.flv
 http://cfss.cc/cdn/hy/20289754.flv
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",解说_恐怖电影解说
 http://cfss.cc/cdn/hy/16741179.flv
-
-
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说影",不一样的电影
+http://43.138.170.29:35455/douyu/2632223
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",科幻影视解说
+http://43.138.170.29:35455/douyu/3508304
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",看美剧
+http://43.138.170.29:35455/douyu/8869614
 
 
