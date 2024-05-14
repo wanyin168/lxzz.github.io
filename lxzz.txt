@@ -389,8 +389,6 @@ http://43.138.170.29:35455/douyu/6079455
 http://43.138.170.29:35455/douyu/454867
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",恐怖丧尸鬼片
 http://43.138.170.29:35455/douyu/263824
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",荒野建造者
-http://43.138.170.29:35455/douyu/9611578
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",邦德影院
 http://43.138.170.29:35455/douyu/9292499
 #EXTINFF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",特辑影院
@@ -411,13 +409,8 @@ http://43.138.170.29:35455/douyu/3928
 http://43.138.170.29:35455/douyu/9412287
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",片荒的日子
 http://43.138.170.29:35455/douyu/4258555
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",大胡子魏
-http://43.138.170.29:35455/douyu/8792763
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",童年回忆
 http://43.138.170.29:35455/douyu/8915074
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",爆笑解说
-http://43.138.170.29:35455/douyu/8317926
-http://43.138.170.29:35455/douyu/2660125
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",下饭神剧
 http://43.138.170.29:35455/douyu/276200
 #EXTINFF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="斗鱼电影",悬疑犯罪
@@ -596,5 +589,7 @@ http://43.138.170.29:35455/douyu/2632223
 http://43.138.170.29:35455/douyu/3508304
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",看美剧
 http://43.138.170.29:35455/douyu/8869614
-
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",爆笑解说
+http://43.138.170.29:35455/douyu/8317926
+http://43.138.170.29:35455/douyu/2660125
 
