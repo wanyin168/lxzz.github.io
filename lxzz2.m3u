@@ -1,37 +1,71 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="两岸三地",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=aqk34i
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://122.224.232.226:8888/udp/233.50.200.191:5140
-
-
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=aqk34i
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="两岸三地",凤凰资讯
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-
-
-
+http://146.56.153.245:20121/bysid/257
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://122.224.232.218:8888/rtp/233.50.200.192:5140
+https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhzixun5s.m3u8&sign=aqk34i
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?sign=aqk34i
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="两岸三地",凤凰香港
+https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhhongkong5s.m3u8&sign=aqk34i
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8?sign=aqk34i
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="两岸三地",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 #EXTINF:-1 tvg-id="凤凰测试" tvg-name="凤凰测试" tvg-logo="https://live.fanmingming.com/tv/凤凰测试.png" group-title="两岸三地",凤凰测试
 http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南电信
 
-香港环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-香港明珠,http://grandprix2023.asuscomm.com:8892/bysid/2
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-三立新闻,http://211.72.65.236:8543/.m3u8
-TVBS HD,http://211.72.65.236:8575/.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
-民视,http://211.72.65.236:8504/.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u
+#EXTINF:-1 tvg-id="香港环球" tvg-name="香港环球" tvg-logo="https://live.fanmingming.com/tv/香港环球.png" group-title="两岸三地",香港环球
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="香港明珠" tvg-name="香港明珠" tvg-logo="https://live.fanmingming.com/tv/香港明珠台.png" group-title="两岸三地",香港明珠
+http://grandprix2023.asuscomm.com:8892/bysid/2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="两岸三地",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="香港C+" tvg-name="香港C+" tvg-logo="https://live.fanmingming.com/tv/香港C+.png" group-title="两岸三地",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="两岸三地",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="两岸三地",三立新闻
+http://211.72.65.236:8543/.m3u8
+https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+#EXTINF:-1 tvg-id="TVBSHD" tvg-name="TVBSHD" tvg-logo="https://live.fanmingming.com/tv/TVBSHD.png" group-title="两岸三地",TVBSHD
+http://211.72.65.236:8575/.m3u8
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="两岸三地",TVBS欢乐台
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="两岸三地",东森新闻
+http://211.72.65.236:8540/.m3u8
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
+http://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视台.png" group-title="两岸三地",民视
+http://211.72.65.236:8504/.m3u8
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="两岸三地",民视新闻台
+https://litv.zapi.us.kg/?id=litv-ftv13
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="两岸三地",民视台湾台
+https://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="https://live.fanmingming.com/tv/纬来精彩.png" group-title="两岸三地",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="两岸三地",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="两岸三地",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u
 
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="http://epg.112114.eu.org/logo/重温经典.png" group-title="央视IPV4",重温经典
@@ -49,42 +83,80 @@ http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid
 http://148.135.93.213:81/live.php?id=CHC动作电影
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV4",CCTV1
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv1
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPV4",CCTV2
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视IPV4",CCTV3
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV3hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPV4",CCTV4
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV4hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV4",CCTV5
 http://ygbh666.cn/aikmigu.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视IPV4",CCTV5+
+https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=aqk34i
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV5+hd-8M/live.m3u8
 http://ygbh666.cn/aikmigu.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视IPV4",CCTV6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV6hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv6
 http://shh-1254317835.cos.ap-shanghai.myqcloud.com/txplayer.html?url=http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视IPV4",CCTV7
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV7hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv7
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV8hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=aqk34i
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视IPV4",CCTV8
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV8hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视IPV4",CCTV9
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV9hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视IPV4",CCTV10
+http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV10hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视IPV4",CCTV11
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV11hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视IPV4",CCTV12
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV12hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视IPV4",CCTV13
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV13-1500k/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视IPV4",CCTV14
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV14hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视IPV4",CCTV15
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV15hd-8M/live.m3u8
+https://vip.taoiptv.cn/source/itv.php?id=CCTV15HEVC.m3u8&sign=aqk34i
 http://ygbh666.cn/aikmigu.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视IPV4",CCTV16
+https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=aqk34i
 http://117.114.153.18:8180/TV00000000000000000136@HHZT
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视IPV4",CCTV17
+https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=aqk34i
+http://ygbh666.cn/aikmigu.php?id=cctv17
 http://ygbh666.cn/aikmigu.php?id=cctv17
 
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="http://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV4",五星体育
@@ -719,4 +791,3 @@ http://43.138.170.29:35455/douyu/8869614
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="电影解说",爆笑解说
 http://43.138.170.29:35455/douyu/8317926
 http://43.138.170.29:35455/douyu/2660125
-
