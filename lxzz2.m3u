@@ -54,7 +54,6 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="两岸三地",东森新闻
 http://211.72.65.236:8540/.m3u8
 https://litv.zapi.us.kg/?id=4gtv-4gtv152
-http://litv.zapi.us.kg/?id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视台.png" group-title="两岸三地",民视
 http://211.72.65.236:8504/.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="两岸三地",民视新闻台
