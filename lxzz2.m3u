@@ -167,61 +167,238 @@ http://ygbh666.cn/aikmigu.php?id=cctv17
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="http://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV4",五星体育
 http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视-芒果TV
-http://148.135.93.213:81/live.php?id=芒果TV
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/HuNWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=HuNWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=HuNWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=湖南卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/DNWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=DNWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=东南卫视HEVC.m3u8&sign=ugxuj7$HEVC
+https://vip.taoiptv.cn/source/jsyd.php?id=DNWS.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=DNWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=东南卫视HEVC.m3u8&sign=ugxuj7$HEVC
+http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/BJWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=BJWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=北京卫视HEVC.m3u8&sign=ugxuj7$HEVC
+https://vip.taoiptv.cn/source/jsyd.php?id=G_BEIJING-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=BJWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=北京卫视HEVC.m3u8&sign=ugxuj7$HEVC
+http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://epg.112114.eu.org/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/JLWS-1500k/live.m3u8
+https://vip.taoiptv.cn/source/gzyx.php?id=27975dec3d5bb0158291c75402d4a691.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=吉林卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=G_JILIN.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=JLWS-1500k.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=吉林卫视.m3u8&sign=ugxuj7
+http://ygbh666.cn/aikmigu.php?id=jlws$咪咕源
+http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
+https://vip.taoiptv.cn/source/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=四川卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=SCWS.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=四川卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/TJWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=TJWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=天津卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_TIANJIN-HD-265-5M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=TJWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=天津卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/AHWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=AHWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=安徽卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_ANHUI-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=AHWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=安徽卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/SDWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=SDWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=1db177c7492ad2769a93e3746f25f701.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=山东卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANDONG-HQ.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=SDWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=山东卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://epg.112114.eu.org/logo/山西卫视.png" group-title="卫视IPV4",山西卫视
+https://vip.taoiptv.cn/source/jsyd.php?id=SXWS.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/GDWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=GDWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=02f45209e8dab92899920d74157fe58b.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=广东卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_GUANGDONG-HQ.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=GDWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=广东卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://ygbh666.cn/aikmigu.php?id=gdws$咪咕源
+http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视IPV4",广西卫视
+https://vip.taoiptv.cn/source/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=广西卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=GXWS.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=广西卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/JSWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=JSWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=江苏卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_JIANGSU-HD-265-5M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=JSWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=江苏卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://ygbh666.cn/aikmigu.php?id=jsws$咪咕源
+http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/JXWS-1500k/live.m3u8
+https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=ugxuj7$HEVC
+https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=JXWS-1500k.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=江西卫视HEVC.m3u8&sign=ugxuj7$HEVC
+http://ygbh666.cn/aikmigu.php?id=jxws$咪咕源
+http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/HeBWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=HeBWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=河北卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=G_HEBEI.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=HeBWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=河北卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
+https://vip.taoiptv.cn/source/itv.php?id=河南卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=HENAN.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=河南卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://zhixiao.outside.live.pthv.gitv.tv/live/ZJWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=ZJWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=浙江卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHEJIANG-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=ZJWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=浙江卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/SZWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=SZWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=深圳卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_SHENZHEN-HQ.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=SZWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=深圳卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/HuBWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=HuBWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=湖北卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_HUBEI-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=HuBWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=湖北卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://ygbh666.cn/aikmigu.php?id=hubws$咪咕源
+http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://epg.112114.eu.org/logo/甘肃卫视.png" group-title="卫视IPV4",甘肃卫视
+https://vip.taoiptv.cn/source/itv.php?id=甘肃卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=G_GANSU.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=甘肃卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/GZWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=GZWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=9245676006cb79b03798b89fa05576b1.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=贵州卫视.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/jsyd.php?id=G_GUIZHOU.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=GZWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=贵州卫视.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
+http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
+http://zhixiao.outside.live.pthv.gitv.tv/live/LNWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=LNWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视HEVC.m3u8&sign=ugxuj7$HEVC
+https://vip.taoiptv.cn/source/jsyd.php?id=G_LIAONING-HD-265-5M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=LNWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=辽宁卫视HEVC.m3u8&sign=ugxuj7$HEVC
+http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/CQWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=CQWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=重庆卫视HEVC.m3u8&sign=ugxuj7$HEVC
+https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-chongqingstv.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=CQWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=重庆卫视HEVC.m3u8&sign=ugxuj7$HEVC
+http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/HLJWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=HLJWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_HEILONGJIANG-HQ.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=HLJWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=黑龙江卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://epg.112114.eu.org/logo/海南卫视.png" group-title="卫视IPV4",海南卫视
+http://zhixiao.outside.live.pthv.gitv.tv/live/HuNWShd-8M/live.m3u8
+https://vip.taoiptv.cn/source/gitv.php?id=HuNWShd-8M.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=ugxuj7
+https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=ugxuj7$50FPS
+https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/gitv.php?id=HuNWShd-8M.m3u8&sign=ugxuj7
+http://114.55.117.163:8081/iptv/itv.php?id=湖南卫视50FPS.m3u8&sign=ugxuj7$50FPS
+http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://epg.112114.eu.org/logo/大湾区卫视.png" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213:81/live.php?id=大湾区卫视
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://epg.112114.eu.org/logo/西藏卫视.png" group-title="卫视IPV4",西藏卫视
+https://vip.taoiptv.cn/source/jsyd.php?id=G_XIZANG.m3u8&sign=ugxuj7
+http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://epg.112114.eu.org/logo/陕西卫视.png" group-title="卫视IPV4",陕西卫视
+https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANXI.m3u8&sign=ugxuj7
+http://ygbh666.cn/aikmigu.php?id=sxws$咪咕源
+http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$鹏博士
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV6",CCTV1
