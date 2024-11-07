@@ -81,8 +81,7 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="两岸三地",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u
 
-#EXTINF:1 aktv-server-group="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTM3U x-tvg-url=""
 
 #EXTINF:2 aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -96,11 +95,20 @@ http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:5 aktv-server-group="AKTV" tvg-id="aktv/hoy78" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Hoy 78
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 
-#EXTINF:6 aktv-server-group="AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
 #EXTINF:7 aktv-server-group="AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:28 aktv-server-group="AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
+#EXTINF:29 aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+#EXTINF:30 aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+
+#EXTINF:31 aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:8 aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
@@ -161,18 +169,6 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
 #EXTINF:27 aktv-server-group="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-
-#EXTINF:28 aktv-server-group="AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-
-#EXTINF:29 aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-
-#EXTINF:30 aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-
-#EXTINF:31 aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:32 aktv-server-group="AKTV" tvg-id="aktv/null-21" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
