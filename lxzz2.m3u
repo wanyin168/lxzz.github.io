@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="两岸三地",凤凰中文
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah001-golive.flv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=aqk34i
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -8,6 +9,7 @@ http://122.224.232.226:8888/udp/233.50.200.191:5140
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=aqk34i
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="两岸三地",凤凰资讯
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah002-golive.flv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -19,6 +21,7 @@ https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhzixun5s.m3u8&sign=aq
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?sign=aqk34i
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="两岸三地",凤凰香港
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah003-golive.flv
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhhongkong5s.m3u8&sign=aqk34i
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -41,12 +44,15 @@ http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="香港环球" tvg-name="香港环球" tvg-logo="https://live.fanmingming.com/tv/香港环球.png" group-title="两岸三地",香港环球
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="香港明珠" tvg-name="香港明珠" tvg-logo="https://live.fanmingming.com/tv/香港明珠台.png" group-title="两岸三地",香港明珠
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah008-golive.flv
 http://grandprix2023.asuscomm.com:8892/bysid/2
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="两岸三地",翡翠台
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="香港C+" tvg-name="香港C+" tvg-logo="https://live.fanmingming.com/tv/香港C+.png" group-title="两岸三地",香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="两岸三地",TVBS新闻台
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="两岸三地",中天亚洲台
